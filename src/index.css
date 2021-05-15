@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.theme-color-blue-bg {
+  background-color: #357ae8;
+}
+
+.theme-color-blue {
+  color: #357ae8 !important;
+}
+
+.l-1 {
+  left: 1rem;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.p-y-1 {
+  padding: 1rem 0;
+}
+
+.p-1-5 {
+  padding: 1.5rem;
+}
+
+.border-2 {
+  border: 2px dotted #357ae8;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.color-black {
+  color: black !important;
+}
+
+.color-red {
+  color: red !important;
+}
