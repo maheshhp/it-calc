@@ -96,7 +96,7 @@ const App = () => {
           </div>
         </nav>
       </div>
-      <div className="row">
+      <div className="row main-content-container">
         <div className="col l8 m8 s12">
           <h5>Data entry/calculation</h5>
           <div className="row">
@@ -234,6 +234,13 @@ const App = () => {
           </div>
         </div>
       </div>
+      <footer>
+        <div className="footer-copyright fixed-footer theme-color-blue-bg">
+          <div className="p-x-0-5">
+            <p className="m-0">Disclaimer: This is an income tax calculator developed for personal use and does not cover all use cases. You should not rely on these calculations as a basis for filing your taxes or making any other decisions. I, the developer of this website, can't be held liable for anything you chose to do from the information in this website.</p>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
